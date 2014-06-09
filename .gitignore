@@ -1,0 +1,8 @@
+# ルート直下のすべてのファイル、フォルダを無視
+/*
+
+# .gitignore自身を監視対象に
+!/.gitignore
+
+# .mySet.idekeybindings
+!mySet.idekeybindings
